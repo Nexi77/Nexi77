@@ -1,8 +1,8 @@
 # Hi, I'm Konrad Kolasa 👋
 
-### Fullstack Developer | ML Enthusiast | AWS in Progress
+### Fullstack Developer | Cybersec Enthusiast
 
-I'm a passionate Fullstack Developer based in Poland, crafting scalable web applications with modern tools. I specialize in building responsive interfaces with **Vue** and **Nuxt3** while powering robust backends using **NestJS**. My expertise spans both SQL and NoSQL databases—working with **PostgreSQL**, **Firebase**, and **MongoDB**. Currently, I'm diving into Machine Learning and leveling up my cloud skills by pursuing AWS Associate Certification.
+I'm a passionate Fullstack Developer based in Poland, crafting scalable web applications with modern tools. I specialize in building responsive interfaces with **Vue** and **Nuxt3** while powering robust backends using **NestJS**. My expertise spans both SQL and NoSQL databases—working with **PostgreSQL**, **Firebase**, and **MongoDB**. Currently, I'm diving into Cybersec and Golang with React/ReactNative (Expo)
 
 <div>
   <a href="https://twitter.com/kolasakonrad1" target="_blank" rel="noreferrer noopener">
