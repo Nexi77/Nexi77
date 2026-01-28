@@ -85,15 +85,15 @@ I'm a passionate Fullstack Developer based in Poland, crafting scalable web appl
 </a>
 
 ### Other Interests
-- 🤖 **Machine Learning:** Actively learning ML concepts and integrating data-driven insights into my projects.
+- 🤖 **Cybersec:** Actively learning Cybersec concepts on TryHackMe while having a lot of fun.
 - ☁️ **Cloud Computing:** Expanding my expertise with AWS certifications.
 
 ---
 
 ## Pinned Projects
 
-I'm currently channeling my curiosity into Machine Learning and innovative fullstack solutions. Explore my pinned repositories to see experimental projects that bridge Python programming and data science.
+I'm currently channeling my curiosity into Cyberseck and innovative fullstack solutions. Explore my pinned repositories to see experimental projects that bridge Python programming and data science.
 
 ---
 
-*This README was last updated on: 2025-03-14*
+*This README was last updated on: 2026-01-27*
